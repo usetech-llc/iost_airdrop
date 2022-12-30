@@ -36,7 +36,7 @@
     "fs": "0.0.1-security",
     "git": "^0.1.5",
     "got": "*",
-    "json2csv": "^3.11.5",
+    "json2csv": "^5.0.7",
     "csvtojson": "*",
     "mongodb": "^2.2.33",
     "mongoose": "^4.13.4",
